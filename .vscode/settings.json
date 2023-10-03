@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "point.h": "c",
+        "listdin.h": "c"
+    }
+}
