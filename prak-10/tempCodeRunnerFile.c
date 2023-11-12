@@ -1,0 +1,1 @@
+push(&s, 79); DisplayStack(s); 
